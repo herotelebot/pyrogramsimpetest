@@ -11,8 +11,8 @@ from AlterMessage import Msg
 akhilapp1 = Client(
         "FirstBotusingPyrogram",
         bot_token=EnvData.BOT_TOKEN, #"1682813101:AAH0xqB2jhMfJT7XSBCY6-MucQzNHWWnYq0",
-        api_id = int(EnvData.API_ID), #"1687826",
-        api_hash =EnvData.API_HASH #"1af0252a7f97e288e2fff6b0adad5b2f"
+        api_id=int(EnvData.API_ID), #"1687826",
+        api_hash=EnvData.API_HASH #"1af0252a7f97e288e2fff6b0adad5b2f"
         
 )
 
