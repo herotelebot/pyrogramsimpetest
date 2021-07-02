@@ -1,7 +1,7 @@
 {
     "name": "TestBot",
     "description": "A photo background remover telegram bot with pyrogram framework.",
-    "repository": "https://github.com/akhilmeena/pyrogramtest",
+    "repository": "https://github.com/herotelebot/pyrogramsimpetest.git",
     "keywords": ["removebg api", "photo", "background remover","telegram bot"],
     "env": {
         "BOT_TOKEN": {
